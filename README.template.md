@@ -1,6 +1,6 @@
 # Oxford-IIIT Pet segmentation: small U-Net from scratch vs. a frozen-feature linear probe
 
-[![Synthetic-data CI](https://github.com/MoustafaMZaalouk/oxford-pet-unet-segmentation/actions/workflows/ci.yml/badge.svg)](https://github.com/MoustafaMZaalouk/oxford-pet-unet-segmentation/actions/workflows/ci.yml)
+[![Synthetic-data CI](https://github.com/MoustafaMZaalouk/oxford-pet-unet-segmentation/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/MoustafaMZaalouk/oxford-pet-unet-segmentation/actions/workflows/ci.yml) Synthetic-data tests only, not the full training run.
 
 A small 3-class (pet / background / border) semantic segmentation study on the Oxford-IIIT Pet trimaps, trained **from scratch on one CPU thread** under a limited compute budget. It is a learning project, not a benchmark entry.
 
